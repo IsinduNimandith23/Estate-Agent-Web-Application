@@ -1,0 +1,130 @@
+{
+  "properties": [
+    {
+      "id": "prop1",
+      "type": "House",
+      "bedrooms": 3,
+      "price": 750000,
+      "tenure": "Freehold",
+      "description": "Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior...",
+      "location": "Petts Wood Road, Petts Wood, Orpington",
+      "housing": "Sale",
+      "picture": "../src/assets/images/Petts Wood Road, Petts Wood, Orpington.webp",
+      "url": "properties/prop1.html",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2489.6744206681697!2d0.07950331249233684!3d51.39066161910672!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8ab82cc8f3cb1%3A0xc746da03b0c6c716!2sPetts%20Wood%20Rd%2C%20Petts%20Wood%2C%20Orpington%2C%20UK!5e0!3m2!1sen!2ssg!4v1704799840457!5m2!1sen!2ssg",
+      "added": {
+        "month": "October",
+        "day": 12,
+        "year": 2022
+      }
+    },
+    {
+      "id": "prop2",
+      "type": "Flat",
+      "bedrooms": 2,
+      "price": 399995,
+      "tenure": "Freehold",
+      "description": "Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms. This apartment being only five years old, is still under a 10 year building guarantee...",
+      "location": "Crofton Road Orpington BR6",
+      "housing": "Rent",
+      "picture": "../src/assets/images/Crofton Road Orpington BR6.jpeg",
+      "url": "properties/prop2.html",
+      "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2490.613577377783!2d0.0693865124915203!3d51.37340022036558!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8ab6ac2bdc8d1%3A0xb0dde3c09939f924!2sCrofton%20Rd%2C%20Orpington%2C%20UK!5e0!3m2!1sen!2ssg!4v1704800958475!5m2!1sen!2ssg",
+      "added": {
+        "month": "September",
+        "day": 14,
+        "year": 2022
+      }
+    },
+    {
+      "id": "prop3",
+      "type": "Terraced",
+      "bedrooms": 3,
+      "price": 179950,
+      "tenure": "Freehold",
+      "description": "We are DELIGHTED to Offer For Sale this SPACIOUS Three Bedroom mid-terraced property set in a popular residential location with easy access to Wrexham City Centre. The property comprises; Entrance Hall, Lounge, Dining Room and Kitchen on the ground floor, with Three bedrooms and Family Bathroom on the first floor. Externally there is a good sized garden to the front, with further parking facilities and easy maintenance garden to rear. Being an ideal family home, this property must be viewed. The property benefits from UPVC Double Glazing throughout, Gas Central Heating and large gardens to both front and rear elevations.",
+      "location": "Aston Grove, Wrexham",
+      "housing": "Sale",
+      "picture": "../src/assets/images/Aston Grove, Wrexham.jpg",
+      "url": "properties/prop3.html",
+      "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2398.2654495573497!2d-2.9864493874293987!3d53.051537696624635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487ac7200a05fc1d%3A0xd81441110da76828!2sAston%20Grove%2C%20Wrexham%2C%20UK!5e0!3m2!1sen!2ssg!4v1704801000675!5m2!1sen!2ssg",
+      "added": {
+        "month": "December",
+        "day": 28,
+        "year": 2023
+      }
+    },
+    {
+      "id": "prop4",
+      "type": "Semi-Detached",
+      "bedrooms": 3,
+      "price": 375000,
+      "tenure": "Leasehold",
+      "description": "A well presented and EXTENDED THREE BEDROOM SEMI DETACHED 1930S PROPERTY benefitting from a 50FT WEST FACING GARDEN as well as a DRIVEWAY providing off road parking. Positioned only a short stroll from Chorlton Village, this splendid property is within walking distance from all local amenities, transport links including the Metro as well as Chorlton Water Park and will prove ideal for a young couple or family. The spacious accommodation briefly comprises: covered porch, entrance hallway, 20FT LOUNGE open to the OPEN PLAN DINING KITCHEN with full height BI-FOLDING DOORS opening to the West facing rear garden. To the first floor there are three bedrooms and bathroom, recently refitted with a modern three piece suite and tiled walls and flooring. The property further benefits from having had new double glazing installed throughout two years ago and is heated by gas central heating. Externally, to the front of the property is a gated driveway providing secure off road parking and a walled, flagged garden. To the rear, an excellent fenced and enclosed garden, mainly laid to lawn with large patio seating area and mature trees and shrubbery. An internal viewing is most highly recommended.",
+      "location": "Barlow Moor Road, Chorlton",
+      "housing": "Sale",
+      "picture": "../src/assets/images/Barlow Moor Road, Chorlton.jpeg",
+      "url": "properties/prop4.html",
+      "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2376.778999455875!2d-2.2763524874109593!3d53.436659667846406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487bb2747171a329%3A0xcb570662ea5d9ba6!2sBarlow%20Moor%20Rd%2C%20Chorlton-cum-Hardy%2C%20Manchester%2C%20UK!5e0!3m2!1sen!2ssg!4v1704801041999!5m2!1sen!2ssg",
+      "added": {
+        "month": "January",
+        "day": 3,
+        "year": 2024
+      }
+    },
+    {
+      "id": "prop5",
+      "type": "Detached",
+      "bedrooms": 5,
+      "price": 1600000,
+      "tenure": "Freehold",
+      "description": "A stunning and individual Art Deco style five bedroom detached house tucked away on a large plot. A fabulous opportunity to acquire a quality home in this prestigious and exclusive location. A stunning Art Deco style 1930s five bedroom detached house. This fabulous individual property offers a truly unique living space that has retained much of its original character though has also been significantly extended and improved by the current vendor offering quality fixtures and fittings throughout and benefiting from a particularly impressive open plan family room to the rear. In brief the extensive and versatile interior comprises: Entrance porch, entrance hall, WC, sitting room, family room, dining area, kitchen, utility, games room and sauna room to the ground floor. Rising to the first floor is a principle bedroom with en-suite, four further bedrooms with a Jack and Jill en-suite and family bathroom. The property also benefits from a boarded loft space. Situated on a particularly large plot with double gated access to the front, driveway and triple garage and to the rear the property has a large and private landscaped garden with patio, lawn and mature shrubs and trees. Occupying an exclusive location, a short walk from Beeston town centre and well placed for a range of transport links, this fabulous property simply must be seen to be truly appreciated.",
+      "location": "Beeston Fields Drive, Beeston",
+      "housing": "Sale",
+      "picture": "../src/assets/images/Beeston Fields Drive, Beeston.jpeg",
+      "url": "properties/prop5.html",
+      "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2404.7938908700316!2d-1.2350044874349633!3d52.93413680536958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4879e9965d01b413%3A0x97129628544e3224!2sBeeston%20Fields%20Dr%2C%20Beeston%2C%20Nottingham%2C%20UK!5e0!3m2!1sen!2ssg!4v1704801068740!5m2!1sen!2ssg",
+      "added": {
+        "month": "August",
+        "day": 8,
+        "year": 2023
+      }
+    },
+    {
+        "id": "prop6",
+        "type": "House Share",
+        "bedrooms": 4,
+        "price": 550000,
+        "tenure": "Freehold",
+        "description": "Located perfectly for access to Oldham Town Centre and transport links to Manchester City Centre and Royal Oldham Hospital and local amenities. This property is great for professionals looking for a high end property to share with like minded individuals. This fully furnished property includes an ensuite with every bedroom, a fully fitted kitchen diner and garden area. There is on street parking to the front of the property.",
+        "location": "Granite Street, Oldham,",
+        "housing": "Rent",
+        "picture": "../src/assets/images/Granite Street, Oldham,.jpeg",
+        "url": "properties/prop6.html",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2370.459553180673!2d-2.0954409874055058!3d53.54956345938314!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487bb8214a9483f5%3A0x160980bdeb7ad3e6!2sGranite%20St%2C%20Oldham%2C%20UK!5e0!3m2!1sen!2ssg!4v1704801093841!5m2!1sen!2ssg" ,
+        "added": {
+          "month": "January",
+          "day": 4,
+          "year": 2024
+        }
+      },
+      {
+          "id": "prop7",
+          "type": "Apartment",
+          "bedrooms": 3,
+          "price": 1750000,
+          "tenure": "Freehold",
+          "description": "A truly impressive 3 bedroom apartment, occupying the first floor of this prestigious gated development, located within strolling distance to both the village and Fletcher Moss. The property comes fully furnished and comprises; entrance hall with video entry, open plan living room with south facing balcony, modern kitchen with appliances, two double bedrooms, en suite and family bathroom. Allocated parking included.",
+          "location": "Philip Godlee Lodge, 842 Wilmslow Road, Didsbury, Manchester, M20",
+          "housing": "Rent",
+          "picture": "../src/assets/images/Philip Godlee Lodge, 842 Wilmslow Road, Didsbury, Manchester, M20.jpeg",
+          "url": "properties/prop7.html",
+          "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2378.2172060387934!2d-2.235916741906442!3d53.4109414987117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487bb2f53764c92f%3A0xdaf52b68269f11c7!2s842%20Wilmslow%20Rd%2C%20Didsbury%2C%20Manchester%20M20%202DS%2C%20UK!5e0!3m2!1sen!2ssg!4v1704801114061!5m2!1sen!2ssg",
+          "added": {
+            "month": "January",
+            "day": 3,
+            "year": 2024
+          }
+        }
+  ]
+}

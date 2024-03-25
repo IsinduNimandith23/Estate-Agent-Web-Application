@@ -1,0 +1,45 @@
+.phantom {
+  display: block;
+  padding: 20px;
+  height: 60px;
+  width: 100%;
+}
+
+.footer-container {
+  width: 100%;
+  background-color: rgb(2, 2, 46);
+  color: white;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  box-sizing: border-box;
+}
+
+.footer-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.footer-col {
+  flex: 1;
+  margin: 0 15px;
+}
+
+h4,
+p {
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li a {
+  color: white;
+  text-decoration: none;
+}
+
+li a:hover {
+  color: aqua;
+}
